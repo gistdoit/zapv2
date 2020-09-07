@@ -1,0 +1,11 @@
+{
+	"version_code":5,
+	"version_name": "3",
+	"require_update": false,
+	"disable_online": false,
+	"isOffAdmob": false,
+	"isOffFan":true,
+	"hideRate":false,
+	"data_type":0,
+	"percent_AdmobVsFan":90
+}
